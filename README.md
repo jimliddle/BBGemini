@@ -1,5 +1,5 @@
 # BBGemini
-This is a standalone web page Application for Google Gemini optimized for the BlackBerry Passport.
+This is a standalone web page Application for Google Gemini optimized for the BlackBerry Passport. Available at: https://jimliddle.github.io/BBGemini/
 
 ![5857026084304963288](https://github.com/user-attachments/assets/ca29bed2-837a-4ec3-9d7a-5860b9d2e196)
 
