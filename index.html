@@ -285,7 +285,7 @@
 
       // Prepare Gemini API request
       var xhr = new XMLHttpRequest();
-      var model = "gemini-2.0-flash";
+      var model = "gemini-2.5-flash";
       var apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/" + model + ":generateContent?key=" + encodeURIComponent(apiKey);
       xhr.open('POST', apiUrl, true);
       xhr.setRequestHeader('Content-Type', 'application/json');
